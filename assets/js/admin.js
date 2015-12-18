@@ -3,5 +3,6 @@ $( document ).ready(function() {
     Waves.attach('.wave-light', ['waves-light']);
     Waves.init();
     
-    $('.nav').perfectScrollbar();
+    var container = $('.nav');
+    Ps.initialize(container);
 });
