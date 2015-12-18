@@ -17,6 +17,16 @@ html, body {
     color: #FFFFFF;
 }
 
+.toolbar .profile {
+
+}
+
+.toolbar .profile img {
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+}
+
 .page {
     background: #FFFFFF;
     position: fixed;
