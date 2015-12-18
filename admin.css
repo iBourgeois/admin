@@ -18,5 +18,17 @@ html, body {
 }
 
 .page {
+    background: #FFFFFF;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
 
+.nav {
+    width: 400px;
+    background: #333333;
+    color: #FFFFFF;
+    height: 100%;
 }
