@@ -71,7 +71,10 @@ html, body {
 }
 
 .page .nav ul li a {
-
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
 }
 
 .page .nav ul li a:hover {
