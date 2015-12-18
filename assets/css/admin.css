@@ -12,8 +12,8 @@ html, body {
     top: 0;
     left: 0;
     right: 0;
-    height: 60px;
-    line-height: 60px;
+    height: 70px;
+    line-height: 70px;
     color: #FFFFFF;
 }
 
@@ -23,8 +23,8 @@ html, body {
 }
 
 .toolbar .profile img {
-    height: 42px;
-    width: 42px;
+    height: 52px;
+    width: 52px;
     border-radius: 100px;
     margin-top: 9px;
     margin-left: 9px;
@@ -32,8 +32,8 @@ html, body {
 }
 
 .toolbar button {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     background: #E01931;
     color: #FFFFFF;
     text-align: center;
@@ -48,14 +48,14 @@ html, body {
 .page {
     background: #FFFFFF;
     position: fixed;
-    top: 60px;
+    top: 70px;
     left: 0;
     right: 0;
     bottom: 0;
 }
 
 .page .nav {
-    width: 60px;
+    width: 70px;
     background: #333333;
     color: #FFFFFF;
     height: 100%;
@@ -69,8 +69,8 @@ html, body {
 }
 
 .page .nav ul li button {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     color: #FFFFFF;
     text-align: center;
     border: none;
