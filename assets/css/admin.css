@@ -59,6 +59,7 @@ html, body {
     background: #333333;
     color: #FFFFFF;
     height: 100%;
+    position: relative;
 }
 
 .page .nav ul {
