@@ -19,6 +19,7 @@ html, body {
 
 .toolbar .profile {
     float: left;
+    background: rgba(0, 0, 0, 0.2);
 }
 
 .toolbar .profile img {
