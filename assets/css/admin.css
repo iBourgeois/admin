@@ -73,9 +73,11 @@ html, body {
 .page .nav ul li a {
     width: 60px;
     height: 60px;
+    font-size: 14pt;
     line-height: 60px;
     text-align: center;
     display: block;
+    color: #FFFFFF;
 }
 
 .page .nav ul li a:hover {
