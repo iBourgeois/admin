@@ -3,6 +3,6 @@ $( document ).ready(function() {
     Waves.attach('.wave-light', ['waves-light']);
     Waves.init();
     
-    var container = document.getElementsByClassName('nav');
+    var container = document.getElementById('nav');
     Ps.initialize(container);
 });
