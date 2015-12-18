@@ -13,8 +13,7 @@
 
             $ripple.css("height", $(this).height());
             $ripple.css("width", $(this).height());
-            $div
-            .css({
+            $div.css({
                 top: yPos - ($ripple.height()/2),
                 left: xPos - ($ripple.width()/2),
                 background: $(this).data("ripple-color")
