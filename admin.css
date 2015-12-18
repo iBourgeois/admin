@@ -9,7 +9,7 @@ html, body {
     background: #FFFFFF;
 }
 
-.navbar {
+.navbar-fixed-top {
     background: #E01931;
     height: 60px;
     line-height: 60px;
