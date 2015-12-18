@@ -20,7 +20,7 @@ html, body {
   user-select: none;
   overflow: hidden;
   position: fixed;
-  top: 50;
+  top: 50px;
   left: 0;
   z-index: 2000;
   width: 100%;
