@@ -53,9 +53,25 @@ html, body {
     bottom: 0;
 }
 
-.nav {
+.page .nav {
     width: 60px;
     background: #333333;
     color: #FFFFFF;
     height: 100%;
+}
+
+.page .nav ul {
+    list-style: none;
+}
+
+.page .nav ul li {
+
+}
+
+.page .nav ul li a {
+
+}
+
+.page .nav ul li a:hover {
+
 }
