@@ -20,7 +20,7 @@ html, body {
   user-select: none;
   overflow: hidden;
   position: fixed;
-  top: 0;
+  top: 50;
   left: 0;
   z-index: 2000;
   width: 100%;
@@ -33,7 +33,7 @@ html, body {
 }
 
 .pace .pace-progress {
-  background-color: #ee3148;
+  background-color: #EE3148;
   position: fixed;
   top: 0;
   bottom: 0;
