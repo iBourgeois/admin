@@ -20,39 +20,6 @@ html, body {
 
 
 
-@media (min-width: 768px) {
-    .navbar-fixed-left .navbar-collapse {
-        padding-right: 0;
-        padding-left: 0;
-    }
-}
-.navbar-fixed-left .navbar-collapse {
-    max-width: 340px;
-}
-@media (max-device-width: 480px) and (orientation: landscape) {
-    .navbar-fixed-left .navbar-collapse {
-        max-width: 200px;
-    }
-}
-.navbar-fixed-left {
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1030;
-}
-@media (min-width: 768px) {
-    .navbar-fixed-left {
-        border-radius: 0;
-    }
-}
-.navbar-fixed-left {
-    top: 0;
-    border-width: 0 0 1px;
-}
-
-
-
-
 
 /* PACE Progress Bar */
 .pace {
