@@ -22,11 +22,11 @@ html, body {
 }
 
 .toolbar .profile img {
-    height: 44px;
-    width: 44px;
+    height: 42px;
+    width: 42px;
     border-radius: 100px;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin-top: 9px;
+    margin-left: 9px;
 }
 
 .page {
