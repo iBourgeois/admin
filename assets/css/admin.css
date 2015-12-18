@@ -18,7 +18,7 @@ html, body {
 }
 
 .toolbar .profile {
-
+    float: left;
 }
 
 .toolbar .profile img {
