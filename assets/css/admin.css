@@ -74,6 +74,7 @@ html, body {
     text-align: center;
     display: block;
     color: #FFFFFF;
+    position: relative;
 }
 
 .page .nav ul li a:hover {
