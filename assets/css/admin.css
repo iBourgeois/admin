@@ -81,3 +81,17 @@ html, body {
     background: rgba(0, 0, 0, 0.2);
 }
 */
+
+
+.page .nav ul li button {
+    width: 60px;
+    height: 60px;
+    color: #FFFFFF;
+    text-align: center;
+    border: none;
+    font-size: 14pt;
+}
+
+.page .nav ul li button:hover {
+    background: rgba(0, 0, 0, 0.2);
+}
