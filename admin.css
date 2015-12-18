@@ -3,8 +3,20 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background: #FFFFFF;
+}
+
+.toolbar {
+    background: #E01931;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    line-height: 60px;
+    color: #FFFFFF;
 }
 
 .page {
-    background: #FFFFFF;
+
 }
