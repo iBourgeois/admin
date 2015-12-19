@@ -6,6 +6,11 @@ html, body {
     background: #FFFFFF;
 }
 
+button:focus {
+    outline:0;
+    background: rgba(0, 0, 0, 0.2);
+}
+
 .toolbar {
     background: #E01931;
     position: fixed;
@@ -86,3 +91,4 @@ html, body {
 .page .nav ul li button:hover {
     background: rgba(0, 0, 0, 0.2);
 }
+
